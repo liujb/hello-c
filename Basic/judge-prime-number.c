@@ -1,6 +1,9 @@
 #include "stdio.h"
 #include "math.h"
 
+/**
+ * judge one number is prime number
+ */
 int main() {
 	int n, i, j;
 	printf("Please input a number: \n");
